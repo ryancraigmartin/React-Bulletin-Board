@@ -26,7 +26,7 @@ div.note {
     margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-    position: relative;
+    position: absolute;
     cursor: -webkit-grab;
     -webkit-box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2);
     box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, .2);
@@ -73,7 +73,7 @@ div.board button {
   background-color: #5cb85c;
   height: 3em;
   width: 150px;
-  margin-left: 10px;
+  margin-left: 45%;
 }
 
 #edit {
